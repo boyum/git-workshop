@@ -32,38 +32,6 @@ Vue is a comfortable JavaScript framework that is easy to use and very performan
 1. Run `npm install` in order to install the project's dependencies.
 2. Run `npm run serve` to start a development server on [http://localhost:8080/](http://localhost:8080/).
 
+What's that? Errors? Let's fix them!
+
 ## 3: Fixing bugs
-
-## Project setup
-
-```shell
-npm install
-```
-
-### Compiles and hot-reloads for development
-
-```shell
-npm run serve
-```
-
-### Compiles and minifies for production
-
-```shell
-npm run build
-```
-
-### Run your tests
-
-```shell
-npm run test
-```
-
-### Lints and fixes files
-
-```shell
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
