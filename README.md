@@ -1,5 +1,8 @@
 # How to Git: A workshop
 
+[![Build Status](https://travis-ci.org/boyum/git-workshop.svg?branch=master)](https://travis-ci.org/boyum/git-workshop)
+[![Coverage Status](https://coveralls.io/repos/github/boyum/git-workshop/badge.svg?branch=master)](https://coveralls.io/github/boyum/git-workshop?branch=master)
+
 ## Summary
 
 This workshop aims to teach you how to use Git + GitHub/GitLab in an efficient manor. It does not go too far into how you should do branching in your project, but is a beginner's guide to the powerful version control system that is Git. Nevertheless, you'll be taught to create feature branches, [which is a powerful way to work with Git](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow).
