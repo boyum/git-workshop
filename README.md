@@ -1,6 +1,7 @@
 # How to Git: A workshop
 
 [![Build Status](https://travis-ci.org/boyum/git-workshop.svg?branch=master)](https://travis-ci.org/boyum/git-workshop)
+[![Coverage Status](https://coveralls.io/repos/github/boyum/git-workshop/badge.svg?branch=master)](https://coveralls.io/github/boyum/git-workshop?branch=master)
 
 ## Summary
 
