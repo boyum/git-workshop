@@ -7,7 +7,7 @@
     "build": "vue-cli-service build",
     "now-build": "npm run build",
     "lint": "vue-cli-service lint",
-    "test:unit": "vue-cli-service test:unit",
+    "test:unit": "vue-cli-service test:unit --coverage",
     "travis": "npm run lint && npm run test:unit && npm run build"
   },
   "dependencies": {
